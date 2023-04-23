@@ -1,5 +1,5 @@
-a = 5
-b = 3
-c = 10
-print ((a + b) * c  == 80)
-print (a / (b + c) == 5 /13)
+A = 5
+B = 3
+C = 10
+print ((A + B) * C  == 80)
+print (A / (B + C) == 5 /13)
