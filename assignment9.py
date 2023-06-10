@@ -36,6 +36,6 @@ print(bus1.mileage)
 print(bus1.capacity)
 # testing bus default capacity of 50
 # print(bus1.seating_capacity)
-# can't do task 4
+# can't solve task 4 & 5
 
 print(bus1.appearance())
